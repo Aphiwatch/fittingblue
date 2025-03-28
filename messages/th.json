@@ -1,0 +1,20 @@
+{
+    "HomePage":{
+        "title": "Fitting Blue"
+    },
+    "NavMain":{
+        "home": "หน้าแรก",
+        "collections": "คอลเลคชั่น",
+        "men": "สุภาพบุรุษ",
+        "women": "สุภาพสตรี",
+        "kid": "เด็ก",
+        "fittingRoom": "ห้องลองชุด",
+        "cart": "รถเข็น",
+        "aboutUs": "เกี่ยวกับเรา",
+        "feedback": "ข้อเสนอแนะ",
+        "setting": "ตั้งค่า"
+    },
+    "FittingRoomPage":{
+        "title": "ห้องลองชุด"
+    }
+}

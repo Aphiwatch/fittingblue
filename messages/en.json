@@ -1,0 +1,20 @@
+{
+    "HomePage":{
+        "title": "Fitting Blue"
+    },
+    "NavMain":{
+        "home": "Home",
+        "collections": "Collections",
+        "men": "Men",
+        "women": "Women",
+        "kid": "Kid",
+        "fittingRoom": "Fitting Room",
+        "cart": "Cart",
+        "aboutUs": "About us",
+        "feedback": "Feedback",
+        "setting": "Setting"
+    },
+    "FittingRoomPage":{
+        "title": "Fitting Room"
+    }
+}
